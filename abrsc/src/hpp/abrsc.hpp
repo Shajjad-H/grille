@@ -1,7 +1,7 @@
 #ifndef __ARBRE_BIN_REC_HPP__
 #define __ARBRE_BIN_REC_HPP__
 
-// operators<>: the operators < and > should be overloaded for type D.
+// operators<>: the operators '<' and '>' should be overloaded for type D.
  
 
  
