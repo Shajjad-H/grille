@@ -1,4 +1,4 @@
-Ce project c++ utilise l'algo de dijkstra pour touver le plus chemin cntre des sites et leur antenne associé.
+Ce project c++ utilise l'algo de dijkstra pour touver le plus court chemin entre des sites et leur antenne associé.
 Chaque site est colorié avec le meme couleur que sa antenne.
 
 
